@@ -1,0 +1,104 @@
+digraph bird_genetree_update_BFGS_params {
+"n28" [shape=point];
+"n29" [shape=point];
+"n30" [shape=point];
+"n25" [shape=point];
+"n26" [shape=point];
+"n27" [shape=point];
+"colius_striatus" [shape=box];
+"n22" [shape=point];
+"n23" [shape=point];
+"n24" [shape=point];
+"cariama_cristata" [shape=box];
+"n19" [shape=point];
+"n20" [shape=point];
+"n21" [shape=point];
+"n16" [shape=point];
+"n17" [shape=point];
+"n18" [shape=point];
+"tyto_alba" [shape=box];
+"n13" [shape=point];
+"n14" [shape=point];
+"n15" [shape=point];
+"apaloderma_vittatum" [shape=box];
+"leptosomus_discolor" [shape=box];
+"n10" [shape=point];
+"n11" [shape=point];
+"n12" [shape=point];
+"cathartes_aura" [shape=box];
+"haliaeetus_albicilla" [shape=box];
+"n7" [shape=point];
+"n8" [shape=point];
+"n9" [shape=point];
+"falco_peregrinus" [shape=box];
+"n4" [shape=point];
+"n5" [shape=point];
+"n6" [shape=point];
+"acanthisitta_chloris" [shape=box];
+"n1" [shape=point];
+"n2" [shape=point];
+"n3" [shape=point];
+"nestor_notabilis" [shape=box];
+"melopsittacus_undulatus" [shape=box];
+  "n28" -> "n29";
+  "n28" -> "n30";
+  "n29" -> "n30" [arrowhead=none];
+  "n29" -> "n25";
+  "n30" -> "n22" [label="w1=0.141"];
+  "n25" -> "n26";
+  "n25" -> "n27";
+  "n26" -> "n27" [arrowhead=none];
+  "n26" -> "colius_striatus";
+  "n27" -> "n19" [label="w1=0.134"];
+  "n22" -> "n23";
+  "n22" -> "n24";
+  "n23" -> "n24" [arrowhead=none];
+  "n23" -> "cariama_cristata";
+  "n24" -> "n7" [label="w1=0.133"];
+  "n19" -> "n20";
+  "n19" -> "n21";
+  "n20" -> "n21" [arrowhead=none];
+  "n20" -> "n16" [style=dashed];
+  "n21" -> "n13" [label="w1=0.171"][style=dashed];
+  "n16" -> "n17";
+  "n16" -> "n18";
+  "n17" -> "n18" [arrowhead=none];
+  "n17" -> "n10";
+  "n18" -> "tyto_alba" [label=" w1=0.209"];
+  "n13" -> "n14";
+  "n13" -> "n15";
+  "n14" -> "n15" [arrowhead=none];
+  "n14" -> "leptosomus_discolor";
+  "n15" -> "apaloderma_vittatum" [label=" w1=0.13"];
+  "n10" -> "n11";
+  "n10" -> "n12";
+  "n11" -> "n12" [arrowhead=none];
+  "n11" -> "haliaeetus_albicilla";
+  "n12" -> "cathartes_aura" [label="w1=0.348"];
+  "n7" -> "n8";
+  "n7" -> "n9";
+  "n8" -> "n9" [arrowhead=none];
+  "n8" -> "falco_peregrinus";
+  "n9" -> "n4" [label="w1=0.122"];
+  "n4" -> "n5";
+  "n4" -> "n6";
+  "n5" -> "n6" [arrowhead=none];
+  "n5" -> "acanthisitta_chloris";
+  "n6" -> "n1" [label="w1=0.104"];
+  "n1" -> "n2";
+  "n1" -> "n3";
+  "n2" -> "n3" [arrowhead=none];
+  "n2" -> "melopsittacus_undulatus";
+  "n3" -> "nestor_notabilis" [label="w1=0.233"];
+  {rank=same; n2; n3}
+  {rank=same; n5; n6}
+  {rank=same; n8; n9}
+  {rank=same; n11; n12}
+  {rank=same; n14; n15}
+  {rank=same; n17; n18}
+  {rank=same; n20; n21}
+  {rank=same; n23; n24}
+  {rank=same; n26; n27}
+  {rank=same; n29; n30}
+
+}

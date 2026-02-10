@@ -1,0 +1,69 @@
+digraph bird_genetree_update_BFGS_params {
+"n18" [shape=point];
+"Lklu" [shape=box];
+"n17" [shape=point];
+"Vpol" [shape=box];
+"n16" [shape=point];
+"n13" [shape=point];
+"n14" [shape=point];
+"n15" [shape=point];
+"Zrou" [shape=box];
+"Tdel" [shape=box];
+"n12" [shape=point];
+"Ncas" [shape=box];
+"n8" [shape=point];
+"Skud" [shape=box];
+"n9" [shape=point];
+"n10" [shape=point];
+"n11" [shape=point];
+"n7" [shape=point];
+"Suva" [shape=box];
+"Ubay" [shape=box];
+"n4" [shape=point];
+"n5" [shape=point];
+"n6" [shape=point];
+"Smik" [shape=box];
+"n1" [shape=point];
+"n2" [shape=point];
+"n3" [shape=point];
+"Spar" [shape=box];
+"Scer" [shape=box];
+  "n18" -> "Lklu";
+  "n18" -> "n17";
+  "n17" -> "Vpol";
+  "n17" -> "n16";
+  "n16" -> "n13";
+  "n16" -> "n12";
+  "n13" -> "n14";
+  "n13" -> "n15";
+  "n14" -> "n15" [arrowhead=none];
+  "n14" -> "Tdel";
+  "n15" -> "Zrou" [label="w1=0.729"];
+  "n12" -> "Ncas";
+  "n12" -> "n8";
+  "n8" -> "n9";
+  "n8" -> "n10";
+  "n9" -> "n11" [label="weight1=0.675"];
+  "n9" -> "n4";
+  "n10" -> "n11" [label="weight2=0.325"];
+  "n10" -> "n7";
+  "n11" -> "Skud";
+  "n11" -> "n10" [style=invis];
+  "n7" -> "Suva";
+  "n7" -> "Ubay";
+  "n4" -> "n5";
+  "n4" -> "n6";
+  "n5" -> "n6" [arrowhead=none];
+  "n5" -> "Smik";
+  "n6" -> "n1" [label="w1=0.751"];
+  "n1" -> "n2";
+  "n1" -> "n3";
+  "n2" -> "n3" [arrowhead=none];
+  "n2" -> "Scer";
+  "n3" -> "Spar" [label="w1=0.615"];
+  {rank=same; n2; n3}
+  {rank=same; n5; n6}
+  {rank=same; n10; n11; n9}
+  {rank=same; n14; n15}
+
+}

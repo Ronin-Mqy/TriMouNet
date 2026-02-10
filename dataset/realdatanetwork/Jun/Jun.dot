@@ -1,0 +1,69 @@
+digraph bird_genetree_update_BFGS_params {
+"n15" [shape=point];
+"Fokhod" [shape=box];
+"n16" [shape=point];
+"n17" [shape=point];
+"n18" [shape=point];
+"n12" [shape=point];
+"n13" [shape=point];
+"n14" [shape=point];
+"Pla" [shape=box];
+"n8" [shape=point];
+"Cfun" [shape=box];
+"Joxy" [shape=box];
+"Xvie" [shape=box];
+"n9" [shape=point];
+"n10" [shape=point];
+"n11" [shape=point];
+"n7" [shape=point];
+"Tdol" [shape=box];
+"n6" [shape=point];
+"n3" [shape=point];
+"n4" [shape=point];
+"n5" [shape=point];
+"Tsut" [shape=box];
+"Tst" [shape=box];
+"n2" [shape=point];
+"Tpli" [shape=box];
+"n1" [shape=point];
+"Toc2" [shape=box];
+"Tko" [shape=box];
+  "n15" -> "n16";
+  "n15" -> "n18";
+  "n16" -> "n17";
+  "n16" -> "n7";
+  "n17" -> "Fokhod";
+  "n17" -> "n18" [arrowhead=none];
+  "n18" -> "n12";
+  "n12" -> "n13";
+  "n12" -> "n14";
+  "n13" -> "n14" [arrowhead=none];
+  "n13" -> "Pla";
+  "n14" -> "n8" [label="w1=0.126"];
+  "n8" -> "n9";
+  "n8" -> "n10";
+  "n9" -> "Joxy";
+  "n9" -> "n11" [label="weight1=0.811"];
+  "n10" -> "Xvie";
+  "n10" -> "n11" [label="weight2=0.189"];
+  "n11" -> "Cfun";
+  "n11" -> "n10" [style=invis];
+  "n7" -> "Tdol";
+  "n7" -> "n6";
+  "n6" -> "n3";
+  "n6" -> "n2";
+  "n3" -> "n4";
+  "n3" -> "n5";
+  "n4" -> "n5" [arrowhead=none];
+  "n4" -> "Tst";
+  "n5" -> "Tsut" [label="w1=0.858"];
+  "n2" -> "Tpli";
+  "n2" -> "n1";
+  "n1" -> "Toc2";
+  "n1" -> "Tko";
+  {rank=same; n4; n5}
+  {rank=same; n10; n11; n9}
+  {rank=same; n13; n14}
+  {rank=same; n18; n17}
+
+}

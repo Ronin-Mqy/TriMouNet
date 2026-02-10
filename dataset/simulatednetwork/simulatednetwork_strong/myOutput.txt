@@ -1,0 +1,1914 @@
+c: 56
+hArray: B
+hArray: C
+hArray: A
+hArray: D
+hArray: E
+hArray: F
+hArray: G
+hArray: H
+Res 56
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:5
+Invalid number format for trinet type Num: 4000
+Skipping this line.
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:9
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:14
+The length of array is:9
+The length of array is:5
+Invalid number format for trinet type Num: 4000
+Skipping this line.
+Invalid number format for trinet type S1: 0.941000000000713
+Invalid number format for trinet type S1: 0.8789999999989959
+Invalid number format for trinet type S1: 1.1740000000008877
+Invalid number format for trinet type S1: 2.1590000000014697
+Invalid number format for trinet type S1: 1.4899999999997817
+Invalid number format for trinet type S1: 1.0019999999985885
+Invalid number format for trinet type S1: 2.57300000000032
+Invalid number format for trinet type S1: 2.4940000000005966
+Invalid number format for trinet type S1: 2.2739999999994325
+Invalid number format for trinet type S1: 3.3479999999999563
+Invalid number format for trinet type S1: 2.8060000000004948
+Invalid number format for trinet type S1: 2.1239999999997963
+Invalid number format for trinet type S1: 0.9690000000009604
+Number of trinets: 56
+Result 10
+TriLoNet accepts dense input. Please ensure the number of trinets in the input TNETS file is equal to X choose 3 where X is the number of taxa and that all trinets are distinct.
+Terminating program.
+Vertex 0 = root
+Vertex 1 = B
+Vertex 2 = C
+Vertex 3 = A
+Vertex 4 = D
+Vertex 5 = E
+Vertex 6 = F
+Vertex 7 = G
+Vertex 8 = H
+
+Leaf Count = 0
+List of Trinets extracted from the Network: 
+Tr0 = Tr{B, C, A : N3}
+Tr1 = Tr{A, B, D : S2}
+Tr2 = Tr{A, B, E : S2}
+Tr3 = Tr{A, B, F : T1}
+Tr4 = Tr{A, B, G : T1}
+Tr5 = Tr{A, B, H : T1}
+Tr6 = Tr{A, C, D : S2}
+Tr7 = Tr{A, C, E : S2}
+Tr8 = Tr{A, C, F : T1}
+Tr9 = Tr{A, C, G : T1}
+Tr10 = Tr{A, C, H : T1}
+Tr11 = Tr{D, E, A : T1}
+Tr12 = Tr{A, D, F : S2}
+Tr13 = Tr{A, D, G : S2}
+Tr14 = Tr{A, D, H : S2}
+Tr15 = Tr{A, E, F : S2}
+Tr16 = Tr{A, E, G : S2}
+Tr17 = Tr{A, E, H : S2}
+Tr18 = Tr{F, G, A : T1}
+Tr19 = Tr{F, H, A : T1}
+Tr20 = Tr{G, H, A : T1}
+Tr21 = Tr{B, C, D : N3}
+Tr22 = Tr{B, C, E : N3}
+Tr23 = Tr{F, B, C : S2}
+Tr24 = Tr{B, C, G : N3}
+Tr25 = Tr{B, C, H : N3}
+Tr26 = Tr{D, E, B : T1}
+Tr27 = Tr{B, F, D : S1}
+Tr28 = Tr{B, G, D : S1}
+Tr29 = Tr{B, H, D : S1}
+Tr30 = Tr{B, F, E : S1}
+Tr31 = Tr{B, G, E : S1}
+Tr32 = Tr{B, H, E : S1}
+Tr33 = Tr{F, G, B : T1}
+Tr34 = Tr{F, H, B : T1}
+Tr35 = Tr{G, H, B : T1}
+Tr36 = Tr{D, E, C : T1}
+Tr37 = Tr{C, F, D : S1}
+Tr38 = Tr{C, G, D : S1}
+Tr39 = Tr{C, H, D : S1}
+Tr40 = Tr{C, F, E : S1}
+Tr41 = Tr{C, G, E : S1}
+Tr42 = Tr{C, H, E : S1}
+Tr43 = Tr{F, G, C : T1}
+Tr44 = Tr{F, H, C : T1}
+Tr45 = Tr{G, H, C : T1}
+Tr46 = Tr{D, E, F : T1}
+Tr47 = Tr{D, E, G : T1}
+Tr48 = Tr{D, E, H : T1}
+Tr49 = Tr{F, G, D : T1}
+Tr50 = Tr{F, H, D : T1}
+Tr51 = Tr{G, H, D : T1}
+Tr52 = Tr{F, G, E : T1}
+Tr53 = Tr{F, H, E : T1}
+Tr54 = Tr{G, H, E : T1}
+Tr55 = Tr{F, G, H : S1}
+List of Trinets: end 
+
+The size of P_value is:56
+The size of u1 is:32
+The size of u2 is:32
+The size of u1_pending is:32
+The size of u2_pending is:32
+The size of w1 is:32
+The size of w1_pending is:32
+The size of diff_S is:24
+The size of diff_NP in the first start is:32
+The loci number in this trinetReconstruction is: 4000.0
+The value of pending edge gap and cherry edge gap and u2 and u2_pending is:
+  5.3069999999988795  131.03499999999985  0.13348705426617144  0.17249160777210087
+  null  null  null  null
+  null  null  null  null
+  14.030000000000655  11.947000000000116  0.17044895066776788  0.1532742141839307
+  13.641999999999825  11.92699999999968  0.17055079141424842  0.15327503816353633
+  10.24200000000019  11.912000000000262  0.170536673121288  0.1532165158806322
+  null  null  null  null
+  null  null  null  null
+  15.504000000000815  7.246999999999389  0.17179034801442677  0.15317336660057643
+  15.259000000000015  7.2629999999990105  0.1718151179051582  0.1531595684638368
+  12.06500000000051  7.252999999998792  0.1717704130986177  0.15303755058412508
+  15.304999999998472  21.365999999999985  0.13369490648210447  0.1492589563166116
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  8.03900000000067  27.237999999999374  0.13372560324578794  0.15217349033413902
+  7.370999999999185  4.783999999999651  0.13352811054191163  0.15203470647107287
+  7.565000000000509  3.701999999999316  0.13457763097609957  0.1520015851467576
+  -0.2890000000006694  130.73099999999977  0.13361993613624706  0.1465383625245868
+  1.3829999999998108  131.03500000000167  0.13365705064344313  0.1864529018640651
+  null  null  null  null
+  19.52900000000045  131.78399999999965  0.13362934578342606  0.15192258676289205
+  15.782999999999447  132.01100000000042  0.13361548278850005  0.15181320301675544
+  3.7039999999997235  18.433000000000902  0.13369790628102032  0.1462869879727855
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  19.966999999998734  6.525000000001455  0.16546855307542796  0.15210179773789143
+  15.970000000001164  4.7629999999990105  0.13352670028370178  0.1520118802492581
+  18.52100000000064  3.896999999999025  0.1346291405380004  0.15198807773016704
+  0.4319999999988795  19.204999999999927  0.13374780839718825  0.14875397310665628
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  25.97900000000118  27.48199999999997  0.1336953796041411  0.15200160684176206
+  23.06500000000051  4.908999999999651  0.13350748411451535  0.15182127970802847
+  24.90900000000147  3.800999999999476  0.13451164597693044  0.15174882866838837
+  2.414999999999054  21.140000000001237  0.13376697506155735  0.1872477814486534
+  3.3850000000002183  20.832000000000335  0.13373614101293768  0.1867857138754855
+  3.228000000000975  21.303000000001703  0.1337516427891091  0.18566242852017312
+  6.636999999998807  7.9950000000008  0.16672050916736772  0.19422181230473948
+  4.04700000000048  4.416999999999462  0.13359532727489032  0.19638846854656694
+  5.122000000001208  3.9200000000000728  0.13452451716514743  0.19561764049414254
+  1.5309999999990396  6.719999999999345  0.16647545541069084  0.14692583796676165
+  0.4600000000009459  5.065000000000509  0.1336689764753385  0.14655571603077874
+  0.8940000000002328  4.096999999999753  0.13467629260776245  0.14661924024980005
+  null  null  null  null
+the X  length in findSmallSNset step is 8the X in findSmallSNset step is The x isBThe x isCThe x isAThe x isDThe x isEThe x isFThe x isGThe x isHIn smallsinkset step,I need to check the key of P_value_first
+B, C, A , N3  0.0  0.5880864473528482
+A, B, D , S2  0.3745885976373207  2.0785195652562412E-63
+A, B, E , S2  0.36412538117235804  1.643747581089808E-60
+A, B, F , T1  7.485183120174107E-170  0.2373286093173915
+A, B, G , T1  3.0642991270320802E-171  0.36526242635287237
+A, B, H , T1  1.8878445303265917E-177  0.32405661647404865
+A, C, D , S2  0.5121462179831685  1.8053793876559587E-68
+A, C, E , S2  0.35532807904008384  6.846206898626351E-61
+A, C, F , T1  3.736606149844249E-181  0.6484909951033425
+A, C, G , T1  6.786368688331776E-185  0.939341224909852
+A, C, H , T1  9.271882523722071E-191  1.0
+D, E, A , T1  0.0  0.10358751059935069
+A, D, F , S2  3.124177567929834E-19  1.0389093407079333E-62
+A, D, G , S2  4.4515030074100716E-21  8.086849776729445E-64
+A, D, H , S2  7.68721866091645E-19  1.0978257731660599E-72
+A, E, F , S2  6.255401555064106E-16  1.0918897845599333E-68
+A, E, G , S2  4.021199314931708E-16  5.450641878278905E-68
+A, E, H , S2  1.4085529525890393E-13  3.8845953960245285E-77
+F, G, A , T1  0.0  0.7399999242639668
+F, H, A , T1  0.0  0.04633823608916219
+G, H, A , T1  0.0  0.14999133603576037
+B, C, D , N3  0.0  0.6123338057876752
+B, C, E , N3  0.0  0.2618285556103374
+F, B, C , S2  0.0  8.2047103438002E-5
+B, C, G , N3  0.0  0.004916263786201729
+B, C, H , N3  0.0  0.0047909154323369065
+D, E, B , T1  0.0  0.366371763671623
+B, F, D , S1  0.3004179433761876  3.91694739339059E-158
+B, G, D , S1  0.23557825847908842  9.880343005472283E-162
+B, H, D , S1  0.2166990322060013  3.1787460542506954E-165
+B, F, E , S1  0.5400041947950902  4.161701759397084E-152
+B, G, E , S1  0.6462305468157219  7.04886483936911E-156
+B, H, E , S1  0.7857110199125977  1.301921371531703E-158
+F, G, B , T1  0.0  0.8369324323965278
+F, H, B , T1  0.0  0.41126273133634816
+G, H, B , T1  0.0  0.5879195752427452
+D, E, C , T1  0.0  0.9039679726132295
+C, F, D , S1  0.4990291588293467  7.443151340988504E-174
+C, G, D , S1  0.3986336728493649  8.503878655119879E-175
+C, H, D , S1  0.328209035798139  7.454023084142994E-179
+C, F, E , S1  0.7863121549350991  1.8251389404002683E-168
+C, G, E , S1  0.8788482887367781  5.620449036750551E-168
+C, H, E , S1  0.9729744077433409  2.6656465089978235E-169
+F, G, C , T1  0.0  0.8041063831536928
+F, H, C , T1  0.0  0.7700045257902758
+G, H, C , T1  0.0  0.5198877604692757
+D, E, F , T1  0.0  0.543753204828524
+D, E, G , T1  0.0  0.5038257652416708
+D, E, H , T1  0.0  0.20350816574943653
+F, G, D , T1  0.0  0.4341376417359297
+F, H, D , T1  0.0  0.5859032528757868
+G, H, D , T1  0.0  0.717359596980013
+F, G, E , T1  0.0  0.3055157599166162
+F, H, E , T1  0.0  0.3651283045121152
+G, H, E , T1  0.0  0.8562799067145699
+F, G, H , S1  0.5072007816336712  3.0743732831592543E-155
+0.0	6.0	-Infinity	-Infinity	-Infinity	-383.4265403264623	-Infinity	-Infinity	
+6.0	0.0	-Infinity	-Infinity	-Infinity	-409.44972407904044	-Infinity	-Infinity	
+6.0	6.0	0.0	6.0	6.0	-798.8762644055028	-810.6855582368353	-838.4888920677483	
+-Infinity	-Infinity	-Infinity	0.0	6.0	-Infinity	-Infinity	-Infinity	
+-Infinity	-Infinity	-Infinity	6.0	0.0	-Infinity	-Infinity	-Infinity	
+-Infinity	-Infinity	-Infinity	-Infinity	-Infinity	0.0	6.0	6.0	
+-Infinity	-Infinity	-Infinity	-Infinity	-Infinity	6.0	0.0	6.0	
+-Infinity	-Infinity	-Infinity	-Infinity	-Infinity	6.0	6.0	0.0	
+The size of X in findSmallSNSET is 8
+=== Debug: Edges in Bonferroni ===
+Edge: B -> C, label=null
+Edge: C -> B, label=null
+Edge: A -> B, label=null
+Edge: A -> C, label=null
+Edge: A -> D, label=null
+Edge: A -> E, label=null
+Edge: D -> E, label=null
+Edge: E -> D, label=null
+Edge: F -> G, label=null
+Edge: F -> H, label=null
+Edge: G -> F, label=null
+Edge: G -> H, label=null
+Edge: H -> F, label=null
+Edge: H -> G, label=null
+The sccc is [[C, B], [E, D], [A], [H, G, F]]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, B, D , S2
+These are elements[A, B, D]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, B, E , S2
+These are elements[A, B, D, E]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, C, D , S2
+These are elements[A, B, D, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, C, E , S2
+These are elements[A, B, D, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, D, F , S2
+These are elements[A, B, D, E, C, F]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, D, G , S2
+These are elements[A, B, D, E, C, F, G]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, D, H , S2
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, F , S2
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, G , S2
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, H , S2
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyF, B, C , S2
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyB, F, D , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyB, G, D , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyB, H, D , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyB, F, E , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyB, G, E , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyB, H, E , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyC, F, D , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyC, G, D , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyC, H, D , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyC, F, E , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyC, G, E , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyC, H, E , S1
+These are elements[A, B, D, E, C, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyF, G, H , S1
+These are elements[A, B, D, E, C, F, G, H]
+The value of mark after findSmallSNSET is0
+The top node in Graph is: []
+The size of Y is2
+The size of P_value_first is56
+The size of P_value is56
+The size of diff_S is 24
+The size of diff_N_P is 32
+The size of diff_N_C is 32
+ In trinetReconstruction the Y is[C, B]
+ In trinetReconstruction the X is[B, C, A, D, E, F, G, H]
+ Before twoleadedNet,diff_NP's size is 32
+The average length of NC is: 656.5960000000014
+The count of NC is: 5
+The result of average_NC/count_NC is: 131.31920000000028
+We construct buildReticulateCherry network and the value of average w1 is: 0.489
+We construct buildReticulateCherry network and the value of average u1 is: 0.109
+We construct buildReticulateCherry network and the value of average u2 is: 0.134
+INININININ THIS {rank=same; n2; n3}
+=== Debug: Edges in reticulatecherry N1 Graph in twoleafnet after ===
+Edge: n1 -> n2, label=null
+Edge: n1 -> n3, label=null
+Edge: n2 -> n3, label=arrowhead=none
+Edge: n2 -> B, label=null
+Edge: n3 -> C, label=w1=0.489
+=== End Debug ===
+ XStar after twoleafednet  is and in this part, XStar has no Y[0][A, D, E, F, G, H]
+ X size after twoleafednet  is 8
+ Y after twoleafednet is:[C, B]
+The key in first cactus is A, B, D , S2
+The P_value in first cactus is: 2.0785195652562412E-63
+The key in first cactus is A, C, D , S2
+The P_value in first cactus is: 1.8053793876559587E-68
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, B, D , S2
+The value of diff_S is: 45.05000000000109
+The key of diff_S is: A, B, E , S2
+The value of diff_S is: 44.199000000000524
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 43.22199999999975
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 47.52100000000064
+The key of diff_S is: A, D, F , S2
+The value of diff_S is: 35.689000000000306
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 43.16400000000067
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, B, C , S2
+The value of diff_S is: 280.853000000001
+The key of diff_S is: B, F, D , S1
+The value of diff_S is: 0.941000000000713
+The key of diff_S is: B, G, D , S1
+The value of diff_S is: 0.8789999999989959
+The key of diff_S is: B, H, D , S1
+The value of diff_S is: 1.1740000000008877
+The key of diff_S is: B, F, E , S1
+The value of diff_S is: 2.1590000000014697
+The key of diff_S is: B, G, E , S1
+The value of diff_S is: 1.4899999999997817
+The key of diff_S is: B, H, E , S1
+The value of diff_S is: 1.0019999999985885
+The key of diff_S is: C, F, D , S1
+The value of diff_S is: 2.57300000000032
+The key of diff_S is: C, G, D , S1
+The value of diff_S is: 2.4940000000005966
+The key of diff_S is: C, H, D , S1
+The value of diff_S is: 2.2739999999994325
+The key of diff_S is: C, F, E , S1
+The value of diff_S is: 3.3479999999999563
+The key of diff_S is: C, G, E , S1
+The value of diff_S is: 2.8060000000004948
+The key of diff_S is: C, H, E , S1
+The value of diff_S is: 2.1239999999997963
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+We are in first loop of S to calculate log value: -144.3312049657971
+We are in first loop of S to calculate log value: -155.98501556682945
+It is the key point to check the entry of value_p_binet_S_first A, B, D , S2
+It is the key point to check the value of diff_S 45.05000000000109
+It is the key point to check the entry of value_p_binet_S_first A, C, D , S2
+It is the key point to check the value of diff_S 43.22199999999975
+before to do 9 times judge, I need to know sup_log_S_first 300.3162205326265
+before to do 9 times judge, I need to know trinet_S2_1_value 25.272000000000844
+before to do 9 times judge, I need to know trinet_S2_2_value -151.27200000000084
+before to do 9 times judge, I need to know trinet_S1_value -23.272000000000844
+We are in this loop to assign trinet and the value of count_S_S2_1_first is: 2
+The key in first cactus is A, B, E , S2
+The P_value in first cactus is: 1.643747581089808E-60
+The key in first cactus is A, C, E , S2
+The P_value in first cactus is: 6.846206898626351E-61
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, B, E , S2
+The value of diff_S is: 44.199000000000524
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 47.52100000000064
+The key of diff_S is: A, D, F , S2
+The value of diff_S is: 35.689000000000306
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 43.16400000000067
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, B, C , S2
+The value of diff_S is: 280.853000000001
+The key of diff_S is: B, F, D , S1
+The value of diff_S is: 0.941000000000713
+The key of diff_S is: B, G, D , S1
+The value of diff_S is: 0.8789999999989959
+The key of diff_S is: B, H, D , S1
+The value of diff_S is: 1.1740000000008877
+The key of diff_S is: B, F, E , S1
+The value of diff_S is: 2.1590000000014697
+The key of diff_S is: B, G, E , S1
+The value of diff_S is: 1.4899999999997817
+The key of diff_S is: B, H, E , S1
+The value of diff_S is: 1.0019999999985885
+The key of diff_S is: C, F, D , S1
+The value of diff_S is: 2.57300000000032
+The key of diff_S is: C, G, D , S1
+The value of diff_S is: 2.4940000000005966
+The key of diff_S is: C, H, D , S1
+The value of diff_S is: 2.2739999999994325
+The key of diff_S is: C, F, E , S1
+The value of diff_S is: 3.3479999999999563
+The key of diff_S is: C, G, E , S1
+The value of diff_S is: 2.8060000000004948
+The key of diff_S is: C, H, E , S1
+The value of diff_S is: 2.1239999999997963
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+We are in first loop of S to calculate log value: -138.53399591115866
+We are in first loop of S to calculate log value: -137.65812683428024
+It is the key point to check the entry of value_p_binet_S_first A, C, E , S2
+It is the key point to check the value of diff_S 47.52100000000064
+It is the key point to check the entry of value_p_binet_S_first A, B, E , S2
+It is the key point to check the value of diff_S 44.199000000000524
+before to do 9 times judge, I need to know sup_log_S_first 276.1921227454389
+before to do 9 times judge, I need to know trinet_S2_1_value 28.720000000001164
+before to do 9 times judge, I need to know trinet_S2_2_value -154.72000000000116
+before to do 9 times judge, I need to know trinet_S1_value -26.720000000001164
+We are in this loop to assign trinet and the value of count_S_S2_1_first is: 2
+ The value of value_NP2 14.030000000000655
+ The key of value_NP2 A, B, F , T1
+ The value of value_NP1 15.504000000000815
+ The key of value_NP1 A, C, F , T1
+ The value of value_NP2 13.641999999999825
+ The key of value_NP2 A, B, G , T1
+ The value of value_NP1 15.259000000000015
+ The key of value_NP1 A, C, G , T1
+ The value of value_NP2 10.24200000000019
+ The key of value_NP2 A, B, H , T1
+ The value of value_NP1 12.06500000000051
+ The key of value_NP1 A, C, H , T1
+ The value of value_NP2 3.7039999999997235
+ The key of value_NP2 D, E, B , T1
+ The value of value_NP1 0.4319999999988795
+ The key of value_NP1 D, E, C , T1
+The key in third cactus is B, F, D , S1
+The P_value in third cactus is: 3.91694739339059E-158
+The key in third cactus is C, F, D , S1
+The P_value in third cactus is: 7.443151340988504E-174
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, D, F , S2
+The value of diff_S is: 35.689000000000306
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 43.16400000000067
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, B, C , S2
+The value of diff_S is: 280.853000000001
+The key of diff_S is: B, F, D , S1
+The value of diff_S is: 0.941000000000713
+The key of diff_S is: B, G, D , S1
+The value of diff_S is: 0.8789999999989959
+The key of diff_S is: B, H, D , S1
+The value of diff_S is: 1.1740000000008877
+The key of diff_S is: B, F, E , S1
+The value of diff_S is: 2.1590000000014697
+The key of diff_S is: B, G, E , S1
+The value of diff_S is: 1.4899999999997817
+The key of diff_S is: B, H, E , S1
+The value of diff_S is: 1.0019999999985885
+The key of diff_S is: C, F, D , S1
+The value of diff_S is: 2.57300000000032
+The key of diff_S is: C, G, D , S1
+The value of diff_S is: 2.4940000000005966
+The key of diff_S is: C, H, D , S1
+The value of diff_S is: 2.2739999999994325
+The key of diff_S is: C, F, E , S1
+The value of diff_S is: 3.3479999999999563
+The key of diff_S is: C, G, E , S1
+The value of diff_S is: 2.8060000000004948
+The key of diff_S is: C, H, E , S1
+The value of diff_S is: 2.1239999999997963
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+We are in third loop of S to calculate log value: -362.44313206879747
+We are in third loop of S to calculate log value: -398.64251185446113
+before to do 9 times judge, I need to know sup_log_S_first -761.0856439232587
+before to do 9 times judge, I need to know trinet_S2_1_value -59.48599999999897
+before to do 9 times judge, I need to know trinet_S2_2_value -59.48599999999897
+before to do 9 times judge, I need to know trinet_S1_value 61.48599999999897
+We are in this loop to assign trinet and the value of count_S_S1_third is: 2
+Hello: 
+trinet_S1 now is:F, C, D , S1
+X[i] is:C
+X[j] is:D
+We are in this loop to assign trinet and the diff_S of trinet_S1 is: null
+The key in third cactus is B, G, D , S1
+The P_value in third cactus is: 9.880343005472283E-162
+The key in third cactus is C, G, D , S1
+The P_value in third cactus is: 8.503878655119879E-175
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, D, F , S2
+The value of diff_S is: 35.689000000000306
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 43.16400000000067
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, B, C , S2
+The value of diff_S is: 280.853000000001
+The key of diff_S is: B, G, D , S1
+The value of diff_S is: 0.8789999999989959
+The key of diff_S is: B, H, D , S1
+The value of diff_S is: 1.1740000000008877
+The key of diff_S is: B, F, E , S1
+The value of diff_S is: 2.1590000000014697
+The key of diff_S is: B, G, E , S1
+The value of diff_S is: 1.4899999999997817
+The key of diff_S is: B, H, E , S1
+The value of diff_S is: 1.0019999999985885
+The key of diff_S is: C, G, D , S1
+The value of diff_S is: 2.4940000000005966
+The key of diff_S is: C, H, D , S1
+The value of diff_S is: 2.2739999999994325
+The key of diff_S is: C, F, E , S1
+The value of diff_S is: 3.3479999999999563
+The key of diff_S is: C, G, E , S1
+The value of diff_S is: 2.8060000000004948
+The key of diff_S is: C, H, E , S1
+The value of diff_S is: 2.1239999999997963
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+We are in third loop of S to calculate log value: -400.8118689021735
+We are in third loop of S to calculate log value: -370.7282378367252
+before to do 9 times judge, I need to know sup_log_S_first -771.5401067388987
+before to do 9 times judge, I need to know trinet_S2_1_value -59.62700000000041
+before to do 9 times judge, I need to know trinet_S2_2_value -59.62700000000041
+before to do 9 times judge, I need to know trinet_S1_value 61.62700000000041
+We are in this loop to assign trinet and the value of count_S_S1_third is: 2
+Hello: 
+trinet_S1 now is:G, C, D , S1
+X[i] is:C
+X[j] is:E
+We are in this loop to assign trinet and the diff_S of trinet_S1 is: null
+The key in third cactus is B, H, D , S1
+The P_value in third cactus is: 3.1787460542506954E-165
+The key in third cactus is C, H, D , S1
+The P_value in third cactus is: 7.454023084142994E-179
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, D, F , S2
+The value of diff_S is: 35.689000000000306
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 43.16400000000067
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, B, C , S2
+The value of diff_S is: 280.853000000001
+The key of diff_S is: B, H, D , S1
+The value of diff_S is: 1.1740000000008877
+The key of diff_S is: B, F, E , S1
+The value of diff_S is: 2.1590000000014697
+The key of diff_S is: B, G, E , S1
+The value of diff_S is: 1.4899999999997817
+The key of diff_S is: B, H, E , S1
+The value of diff_S is: 1.0019999999985885
+The key of diff_S is: C, H, D , S1
+The value of diff_S is: 2.2739999999994325
+The key of diff_S is: C, F, E , S1
+The value of diff_S is: 3.3479999999999563
+The key of diff_S is: C, G, E , S1
+The value of diff_S is: 2.8060000000004948
+The key of diff_S is: C, H, E , S1
+The value of diff_S is: 2.1239999999997963
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+We are in third loop of S to calculate log value: -378.7700535475537
+We are in third loop of S to calculate log value: -410.153977748002
+before to do 9 times judge, I need to know sup_log_S_first -788.9240312955557
+before to do 9 times judge, I need to know trinet_S2_1_value -59.55199999999968
+before to do 9 times judge, I need to know trinet_S2_2_value -59.55199999999968
+before to do 9 times judge, I need to know trinet_S1_value 61.55199999999968
+We are in this loop to assign trinet and the value of count_S_S1_third is: 2
+Hello: 
+trinet_S1 now is:H, C, D , S1
+X[i] is:C
+X[j] is:F
+We are in this loop to assign trinet and the diff_S of trinet_S1 is: null
+The key in third cactus is B, F, E , S1
+The P_value in third cactus is: 4.161701759397084E-152
+The key in third cactus is C, F, E , S1
+The P_value in third cactus is: 1.8251389404002683E-168
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, D, F , S2
+The value of diff_S is: 35.689000000000306
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 43.16400000000067
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, B, C , S2
+The value of diff_S is: 280.853000000001
+The key of diff_S is: B, F, E , S1
+The value of diff_S is: 2.1590000000014697
+The key of diff_S is: B, G, E , S1
+The value of diff_S is: 1.4899999999997817
+The key of diff_S is: B, H, E , S1
+The value of diff_S is: 1.0019999999985885
+The key of diff_S is: C, F, E , S1
+The value of diff_S is: 3.3479999999999563
+The key of diff_S is: C, G, E , S1
+The value of diff_S is: 2.8060000000004948
+The key of diff_S is: C, H, E , S1
+The value of diff_S is: 2.1239999999997963
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+We are in third loop of S to calculate log value: -348.5670100676927
+We are in third loop of S to calculate log value: -386.2326395071369
+before to do 9 times judge, I need to know sup_log_S_first -734.7996495748296
+before to do 9 times judge, I need to know trinet_S2_1_value -57.492999999998574
+before to do 9 times judge, I need to know trinet_S2_2_value -57.492999999998574
+before to do 9 times judge, I need to know trinet_S1_value 59.492999999998574
+We are in this loop to assign trinet and the value of count_S_S1_third is: 2
+Hello: 
+trinet_S1 now is:F, C, E , S1
+X[i] is:A
+X[j] is:D
+We are in this loop to assign trinet and the diff_S of trinet_S1 is: null
+The key in third cactus is B, G, E , S1
+The P_value in third cactus is: 7.04886483936911E-156
+The key in third cactus is C, G, E , S1
+The P_value in third cactus is: 5.620449036750551E-168
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, D, F , S2
+The value of diff_S is: 35.689000000000306
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 43.16400000000067
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, B, C , S2
+The value of diff_S is: 280.853000000001
+The key of diff_S is: B, G, E , S1
+The value of diff_S is: 1.4899999999997817
+The key of diff_S is: B, H, E , S1
+The value of diff_S is: 1.0019999999985885
+The key of diff_S is: C, G, E , S1
+The value of diff_S is: 2.8060000000004948
+The key of diff_S is: C, H, E , S1
+The value of diff_S is: 2.1239999999997963
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+The key of diff_S is: F, C, E , S1
+The value of diff_S is: 2.753500000000713
+We are in third loop of S to calculate log value: -357.2504079189037
+We are in third loop of S to calculate log value: -385.1078840625082
+before to do 9 times judge, I need to know sup_log_S_first -742.3582919814119
+before to do 9 times judge, I need to know trinet_S2_1_value -58.70399999999972
+before to do 9 times judge, I need to know trinet_S2_2_value -58.70399999999972
+before to do 9 times judge, I need to know trinet_S1_value 60.70399999999972
+We are in this loop to assign trinet and the value of count_S_S1_third is: 2
+Hello: 
+trinet_S1 now is:G, C, E , S1
+X[i] is:A
+X[j] is:E
+We are in this loop to assign trinet and the diff_S of trinet_S1 is: null
+The key in third cactus is B, H, E , S1
+The P_value in third cactus is: 1.301921371531703E-158
+The key in third cactus is C, H, E , S1
+The P_value in third cactus is: 2.6656465089978235E-169
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, D, F , S2
+The value of diff_S is: 35.689000000000306
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 43.16400000000067
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, B, C , S2
+The value of diff_S is: 280.853000000001
+The key of diff_S is: B, H, E , S1
+The value of diff_S is: 1.0019999999985885
+The key of diff_S is: C, H, E , S1
+The value of diff_S is: 2.1239999999997963
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+The key of diff_S is: F, C, E , S1
+The value of diff_S is: 2.753500000000713
+The key of diff_S is: G, C, E , S1
+The value of diff_S is: 2.1480000000001382
+We are in third loop of S to calculate log value: -388.15643409530225
+We are in third loop of S to calculate log value: -363.54460354162507
+before to do 9 times judge, I need to know sup_log_S_first -751.7010376369274
+before to do 9 times judge, I need to know trinet_S2_1_value -59.874000000001615
+before to do 9 times judge, I need to know trinet_S2_2_value -59.874000000001615
+before to do 9 times judge, I need to know trinet_S1_value 61.874000000001615
+We are in this loop to assign trinet and the value of count_S_S1_third is: 2
+Hello: 
+trinet_S1 now is:H, C, E , S1
+X[i] is:A
+X[j] is:F
+We are in this loop to assign trinet and the diff_S of trinet_S1 is: null
+ The value of value_NP2 19.966999999998734
+ The key of value_NP2 F, G, B , T1
+ The value of value_NP1 25.97900000000118
+ The key of value_NP1 F, G, C , T1
+ The value of value_NP2 15.970000000001164
+ The key of value_NP2 F, H, B , T1
+ The value of value_NP1 23.06500000000051
+ The key of value_NP1 F, H, C , T1
+ The value of value_NP2 18.52100000000064
+ The key of value_NP2 G, H, B , T1
+ The value of value_NP1 24.90900000000147
+ The key of value_NP1 G, H, C , T1
+I need to check X and X length in this position[B, C, A, D, E, F, G, H]
+I need to check X and X length in this position8
+I need to check Xstar in this position7
+I need to check Y in this position[C, B]
+I need to check diff_NP and diff_S length in this position20
+I need to check diff_NP and diff_S length in this position{D, E, A , T1=15.304999999998472, F, G, A , T1=8.03900000000067, F, H, A , T1=7.370999999999185, G, H, A , T1=7.565000000000509, D, E, F , T1=2.414999999999054, D, E, G , T1=3.3850000000002183, D, E, H , T1=3.228000000000975, F, G, D , T1=6.636999999998807, F, H, D , T1=4.04700000000048, G, H, D , T1=5.122000000001208, F, G, E , T1=1.5309999999990396, F, H, E , T1=0.4600000000009459, G, H, E , T1=0.8940000000002328, A, C, F , T1=14.767000000000735, A, C, G , T1=14.45049999999992, A, C, H , T1=11.15350000000035, D, E, C , T1=2.0679999999993015, F, G, C , T1=22.972999999999956, F, H, C , T1=19.517500000000837, G, H, C , T1=21.715000000001055}
+I need to check diff_NP and diff_S length in this position15
+I need to check diff_NP and diff_S length in this position{A, D, F , S2=35.689000000000306, A, D, G , S2=33.71700000000055, A, D, H , S2=35.097999999999956, A, E, F , S2=43.16400000000067, A, E, G , S2=40.40099999999984, A, E, H , S2=49.30400000000009, F, G, H , S1=0.9690000000009604, A, C, D , S2=44.13600000000042, A, C, E , S2=45.86000000000058, F, C, D , S1=1.7570000000005166, G, C, D , S1=1.6864999999997963, H, C, D , S1=1.72400000000016, F, C, E , S1=2.753500000000713, G, C, E , S1=2.1480000000001382, H, C, E , S1=1.5629999999991924}
+=== Debug: Edges in N1 ===
+Edge: n1 -> n2, label=null
+Edge: n1 -> n3, label=null
+Edge: n2 -> n3, label=arrowhead=none
+Edge: n2 -> B, label=null
+Edge: n3 -> C, label=w1=0.489
+=== End Debug ===
+=== Debug: Edges in N2_last Graph ===
+=== End Debug ===
+Make a recursive call
+This is the position to run trinetReconstruction again, the value of Xstar is and this XStar has Y[0][A, D, E, F, G, H, C]
+This is the position to run trinetReconstruction again, the length of diff_NP and XStar is 20
+,7
+The size of P_value is:35
+The size of u1 is:20
+The size of u2 is:20
+The size of u1_pending is:20
+The size of u2_pending is:20
+The size of w1 is:20
+The size of w1_pending is:20
+The size of diff_S is:15
+The size of diff_NP in the first start is:20
+The loci number in this trinetReconstruction is: 4000.0
+The value of pending edge gap and cherry edge gap and u2 and u2_pending is:
+  15.304999999998472  21.365999999999985  0.13369490648210447  0.1492589563166116
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  8.03900000000067  27.237999999999374  0.13372560324578794  0.15217349033413902
+  7.370999999999185  4.783999999999651  0.13352811054191163  0.15203470647107287
+  7.565000000000509  3.701999999999316  0.13457763097609957  0.1520015851467576
+  2.414999999999054  21.140000000001237  0.13376697506155735  0.1872477814486534
+  3.3850000000002183  20.832000000000335  0.13373614101293768  0.1867857138754855
+  3.228000000000975  21.303000000001703  0.1337516427891091  0.18566242852017312
+  6.636999999998807  7.9950000000008  0.16672050916736772  0.19422181230473948
+  4.04700000000048  4.416999999999462  0.13359532727489032  0.19638846854656694
+  5.122000000001208  3.9200000000000728  0.13452451716514743  0.19561764049414254
+  1.5309999999990396  6.719999999999345  0.16647545541069084  0.14692583796676165
+  0.4600000000009459  5.065000000000509  0.1336689764753385  0.14655571603077874
+  0.8940000000002328  4.096999999999753  0.13467629260776245  0.14661924024980005
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  14.767000000000735  9.596999999999753  0.17111964934109733  0.15322379039225356
+  14.45049999999992  9.594999999999345  0.1711829546597033  0.15321730331368655
+  11.15350000000035  9.582499999999527  0.17115354310995284  0.15312703323237864
+  2.0679999999993015  18.819000000000415  0.13372285733910427  0.1475204805397209
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  22.972999999999956  17.003500000000713  0.14958196633978454  0.15205170228982673
+  19.517500000000837  4.835999999999331  0.13351709219910857  0.15191657997864327
+  21.715000000001055  3.8489999999992506  0.13457039325746542  0.15186845319927772
+the X  length in findSmallSNset step is 7the X in findSmallSNset step is The x isAThe x isDThe x isEThe x isFThe x isGThe x isHThe x isCIn smallsinkset step,I need to check the key of P_value_first
+D, E, A , T1  0.0  0.10358751059935069
+A, D, F , S2  3.124177567929834E-19  1.0389093407079333E-62
+A, D, G , S2  4.4515030074100716E-21  8.086849776729445E-64
+A, D, H , S2  7.68721866091645E-19  1.0978257731660599E-72
+A, E, F , S2  6.255401555064106E-16  1.0918897845599333E-68
+A, E, G , S2  4.021199314931708E-16  5.450641878278905E-68
+A, E, H , S2  1.4085529525890393E-13  3.8845953960245285E-77
+F, G, A , T1  0.0  0.7399999242639668
+F, H, A , T1  0.0  0.04633823608916219
+G, H, A , T1  0.0  0.14999133603576037
+D, E, F , T1  0.0  0.543753204828524
+D, E, G , T1  0.0  0.5038257652416708
+D, E, H , T1  0.0  0.20350816574943653
+F, G, D , T1  0.0  0.4341376417359297
+F, H, D , T1  0.0  0.5859032528757868
+G, H, D , T1  0.0  0.717359596980013
+F, G, E , T1  0.0  0.3055157599166162
+F, H, E , T1  0.0  0.3651283045121152
+G, H, E , T1  0.0  0.8562799067145699
+F, G, H , S1  0.5072007816336712  3.0743732831592543E-155
+A, C, D , S2  0.43800015248807006  6.125778628022108E-66
+A, C, E , S2  0.3596998362825764  1.0608221353863907E-60
+A, C, F , T1  0.0  0.39230787147688945
+A, C, G , T1  0.0  0.5857525543980595
+A, C, H , T1  0.0  0.5692597091609845
+D, E, C , T1  0.0  0.5754896527557818
+F, C, D , S1  0.3871915721968405  5.399484442397867E-166
+G, C, D , S1  0.3064464495160224  2.8986417162094857E-168
+H, C, D , S1  0.2666881707513882  4.867694163257706E-172
+F, C, E , S1  0.6516224843291708  2.756026839384538E-160
+G, C, E , S1  0.7536170182515981  6.294266088799944E-162
+H, C, E , S1  0.8743435905048289  5.891062857424916E-164
+F, G, C , T1  0.0  0.8203552347357786
+F, H, C , T1  0.0  0.5627380957584606
+G, H, C , T1  0.0  0.5528582018103725
+0.0	5.0	5.0	-Infinity	-Infinity	-Infinity	5.0	
+-Infinity	0.0	5.0	-Infinity	-Infinity	-Infinity	-Infinity	
+-Infinity	5.0	0.0	-Infinity	-Infinity	-Infinity	-Infinity	
+-Infinity	-Infinity	-Infinity	0.0	5.0	5.0	-Infinity	
+-Infinity	-Infinity	-Infinity	5.0	0.0	5.0	-Infinity	
+-Infinity	-Infinity	-Infinity	5.0	5.0	0.0	-Infinity	
+5.0	5.0	5.0	-Infinity	-Infinity	-Infinity	0.0	
+The size of X in findSmallSNSET is 7
+=== Debug: Edges in Bonferroni ===
+Edge: A -> D, label=null
+Edge: A -> E, label=null
+Edge: A -> C, label=null
+Edge: D -> E, label=null
+Edge: E -> D, label=null
+Edge: F -> G, label=null
+Edge: F -> H, label=null
+Edge: G -> F, label=null
+Edge: G -> H, label=null
+Edge: H -> F, label=null
+Edge: H -> G, label=null
+Edge: C -> A, label=null
+Edge: C -> D, label=null
+Edge: C -> E, label=null
+The sccc is [[E, D], [C, A], [H, G, F]]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, D, F , S2
+These are elements[A, D, F]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, D, G , S2
+These are elements[A, D, F, G]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, D, H , S2
+These are elements[A, D, F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, F , S2
+These are elements[A, D, F, G, H, E]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, G , S2
+These are elements[A, D, F, G, H, E]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, H , S2
+These are elements[A, D, F, G, H, E]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyF, G, H , S1
+These are elements[A, D, F, G, H, E]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, C, D , S2
+These are elements[A, D, F, G, H, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, C, E , S2
+These are elements[A, D, F, G, H, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyF, C, D , S1
+These are elements[A, D, F, G, H, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyG, C, D , S1
+These are elements[A, D, F, G, H, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyH, C, D , S1
+These are elements[A, D, F, G, H, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyF, C, E , S1
+These are elements[A, D, F, G, H, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyG, C, E , S1
+These are elements[A, D, F, G, H, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyH, C, E , S1
+These are elements[A, D, F, G, H, E, C]
+The value of mark after findSmallSNSET is0
+The top node in Graph is: []
+The size of Y is2
+The size of P_value_first is35
+The size of P_value is35
+The size of diff_S is 15
+The size of diff_N_P is 20
+The size of diff_N_C is 20
+ In trinetReconstruction the Y is[E, D]
+ In trinetReconstruction the X is[A, D, E, F, G, H, C]
+ Before twoleadedNet,diff_NP's size is 20
+The average length of NC is: 103.46000000000367
+The count of NC is: 5
+The result of average_NC/count_NC is: 20.692000000000736
+We construct buildCherry network and the value of average w1 is: 0.017
+We construct buildCherry network and the value of average u1 is: 0.114
+We construct buildCherry network and the value of average u2 is: 0.134
+=== Debug: Edges in cherryGraph before ===
+Edge: n4 -> E, label=null
+Edge: n4 -> D, label=null
+=== End Debug ===
+=== Debug: Edges in cherry N1 Graph in twoleafnet after ===
+Edge: n4 -> E, label=null
+Edge: n4 -> D, label=null
+=== End Debug ===
+ XStar after twoleafednet  is and in this part, XStar has no Y[0][A, F, G, H, C]
+ X size after twoleafednet  is 7
+ Y after twoleafednet is:[E, D]
+The key in first cactus is A, D, F , S2
+The P_value in first cactus is: 1.0389093407079333E-62
+The key in first cactus is A, E, F , S2
+The P_value in first cactus is: 1.0918897845599333E-68
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, D, F , S2
+The value of diff_S is: 35.689000000000306
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 43.16400000000067
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+The key of diff_S is: F, C, E , S1
+The value of diff_S is: 2.753500000000713
+The key of diff_S is: G, C, E , S1
+The value of diff_S is: 2.1480000000001382
+The key of diff_S is: H, C, E , S1
+The value of diff_S is: 1.5629999999991924
+We are in first loop of S to calculate log value: -142.7221043136173
+We are in first loop of S to calculate log value: -156.48787638125634
+It is the key point to check the entry of value_p_binet_S_first A, D, F , S2
+It is the key point to check the value of diff_S 35.689000000000306
+It is the key point to check the entry of value_p_binet_S_first A, E, F , S2
+It is the key point to check the value of diff_S 43.16400000000067
+before to do 9 times judge, I need to know sup_log_S_first 299.20998069487365
+before to do 9 times judge, I need to know trinet_S2_1_value 15.853000000000975
+before to do 9 times judge, I need to know trinet_S2_2_value -141.85300000000097
+before to do 9 times judge, I need to know trinet_S1_value -13.853000000000975
+We are in this loop to assign trinet and the value of count_S_S2_1_first is: 2
+The key in first cactus is A, D, G , S2
+The P_value in first cactus is: 8.086849776729445E-64
+The key in first cactus is A, E, G , S2
+The P_value in first cactus is: 5.450641878278905E-68
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, D, G , S2
+The value of diff_S is: 33.71700000000055
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 40.40099999999984
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+The key of diff_S is: F, C, E , S1
+The value of diff_S is: 2.753500000000713
+The key of diff_S is: G, C, E , S1
+The value of diff_S is: 2.1480000000001382
+The key of diff_S is: H, C, E , S1
+The value of diff_S is: 1.5629999999991924
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 39.42650000000049
+We are in first loop of S to calculate log value: -145.27520669357372
+We are in first loop of S to calculate log value: -154.880052946024
+It is the key point to check the entry of value_p_binet_S_first A, D, G , S2
+It is the key point to check the value of diff_S 33.71700000000055
+It is the key point to check the entry of value_p_binet_S_first A, E, G , S2
+It is the key point to check the value of diff_S 40.40099999999984
+before to do 9 times judge, I need to know sup_log_S_first 300.1552596395977
+before to do 9 times judge, I need to know trinet_S2_1_value 11.118000000000393
+before to do 9 times judge, I need to know trinet_S2_2_value -137.1180000000004
+before to do 9 times judge, I need to know trinet_S1_value -9.118000000000393
+We are in this loop to assign trinet and the value of count_S_S2_1_first is: 2
+The key in first cactus is A, D, H , S2
+The P_value in first cactus is: 1.0978257731660599E-72
+The key in first cactus is A, E, H , S2
+The P_value in first cactus is: 3.8845953960245285E-77
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: A, D, H , S2
+The value of diff_S is: 35.097999999999956
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 49.30400000000009
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+The key of diff_S is: F, C, E , S1
+The value of diff_S is: 2.753500000000713
+The key of diff_S is: G, C, E , S1
+The value of diff_S is: 2.1480000000001382
+The key of diff_S is: H, C, E , S1
+The value of diff_S is: 1.5629999999991924
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 39.42650000000049
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 37.0590000000002
+We are in first loop of S to calculate log value: -175.94203332731283
+We are in first loop of S to calculate log value: -165.69279504160804
+It is the key point to check the entry of value_p_binet_S_first A, E, H , S2
+It is the key point to check the value of diff_S 49.30400000000009
+It is the key point to check the entry of value_p_binet_S_first A, D, H , S2
+It is the key point to check the value of diff_S 35.097999999999956
+before to do 9 times judge, I need to know sup_log_S_first 341.63482836892086
+before to do 9 times judge, I need to know trinet_S2_1_value 21.402000000000044
+before to do 9 times judge, I need to know trinet_S2_2_value -147.40200000000004
+before to do 9 times judge, I need to know trinet_S1_value -19.402000000000044
+We are in this loop to assign trinet and the value of count_S_S2_1_first is: 2
+The key in second cactus is A, C, D , S2
+The P_value in second cactus is: 6.125778628022108E-66
+The key in second cactus is A, C, E , S2
+The P_value in second cactus is: 1.0608221353863907E-60
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: A, C, D , S2
+The value of diff_S is: 44.13600000000042
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 45.86000000000058
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+The key of diff_S is: F, C, E , S1
+The value of diff_S is: 2.753500000000713
+The key of diff_S is: G, C, E , S1
+The value of diff_S is: 2.1480000000001382
+The key of diff_S is: H, C, E , S1
+The value of diff_S is: 1.5629999999991924
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 39.42650000000049
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 37.0590000000002
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 42.20100000000002
+We are in second loop of S to calculate log value: -138.09606137271945
+The sup_log_S_first value is: -138.09606137271945
+The sup_log_S_second value is: 138.09606137271945
+The sup_log_S_third value is: -138.09606137271945
+We are in second loop of S to calculate log value: -150.1581102663133
+The sup_log_S_first value is: -288.25417163903273
+The sup_log_S_second value is: 288.25417163903273
+The sup_log_S_third value is: -288.25417163903273
+We select second log as max value: 
+before to do 9 times judge, I need to know sup_log_S_first -288.25417163903273
+before to do 9 times judge, I need to know trinet_S2_1_value 26.996000000001004
+before to do 9 times judge, I need to know trinet_S2_2_value -152.996000000001
+before to do 9 times judge, I need to know trinet_S1_value -24.996000000001004
+We are in this loop to assign trinet and the value of count_S_S2_1_second is: 2
+ The value of value_NP2 6.636999999998807
+ The key of value_NP2 F, G, D , T1
+ The value of value_NP1 1.5309999999990396
+ The key of value_NP1 F, G, E , T1
+ The value of value_NP2 4.04700000000048
+ The key of value_NP2 F, H, D , T1
+ The value of value_NP1 0.4600000000009459
+ The key of value_NP1 F, H, E , T1
+The key in first cactus is F, C, D , S1
+The P_value in first cactus is: 5.399484442397867E-166
+The key in first cactus is F, C, E , S1
+The P_value in first cactus is: 2.756026839384538E-160
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: F, C, D , S1
+The value of diff_S is: 1.7570000000005166
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+The key of diff_S is: F, C, E , S1
+The value of diff_S is: 2.753500000000713
+The key of diff_S is: G, C, E , S1
+The value of diff_S is: 2.1480000000001382
+The key of diff_S is: H, C, E , S1
+The value of diff_S is: 1.5629999999991924
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 39.42650000000049
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 37.0590000000002
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 42.20100000000002
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 44.9980000000005
+We are in first loop of S to calculate log value: -367.39982478741484
+We are in first loop of S to calculate log value: -380.5428219616293
+It is the key point to check the entry of value_p_binet_S_first F, C, E , S1
+It is the key point to check the value of diff_S 2.753500000000713
+It is the key point to check the entry of value_p_binet_S_first F, C, D , S1
+It is the key point to check the value of diff_S 1.7570000000005166
+before to do 9 times judge, I need to know sup_log_S_first 747.9426467490441
+before to do 9 times judge, I need to know trinet_S2_1_value -58.48949999999877
+before to do 9 times judge, I need to know trinet_S2_2_value -58.48949999999877
+before to do 9 times judge, I need to know trinet_S1_value 60.48949999999877
+We are in this loop to assign trinet and the value of count_S_S1_first is: 2
+ The value of value_NP2 5.122000000001208
+ The key of value_NP2 G, H, D , T1
+ The value of value_NP1 0.8940000000002328
+ The key of value_NP1 G, H, E , T1
+The key in first cactus is G, C, D , S1
+The P_value in first cactus is: 2.8986417162094857E-168
+The key in first cactus is G, C, E , S1
+The P_value in first cactus is: 6.294266088799944E-162
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: G, C, D , S1
+The value of diff_S is: 1.6864999999997963
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+The key of diff_S is: G, C, E , S1
+The value of diff_S is: 2.1480000000001382
+The key of diff_S is: H, C, E , S1
+The value of diff_S is: 1.5629999999991924
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 39.42650000000049
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 37.0590000000002
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 42.20100000000002
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 44.9980000000005
+The key of diff_S is: F, C, E , S1
+The value of diff_S is: 2.255250000000615
+We are in first loop of S to calculate log value: -371.17914599070593
+We are in first loop of S to calculate log value: -385.77005336944933
+It is the key point to check the entry of value_p_binet_S_first G, C, E , S1
+It is the key point to check the value of diff_S 2.1480000000001382
+It is the key point to check the entry of value_p_binet_S_first G, C, D , S1
+It is the key point to check the value of diff_S 1.6864999999997963
+before to do 9 times judge, I need to know sup_log_S_first 756.9491993601553
+before to do 9 times judge, I need to know trinet_S2_1_value -59.165500000000065
+before to do 9 times judge, I need to know trinet_S2_2_value -59.165500000000065
+before to do 9 times judge, I need to know trinet_S1_value 61.165500000000065
+We are in this loop to assign trinet and the value of count_S_S1_first is: 2
+The key in first cactus is H, C, D , S1
+The P_value in first cactus is: 4.867694163257706E-172
+The key in first cactus is H, C, E , S1
+The P_value in first cactus is: 5.891062857424916E-164
+In this special time,I need to check every key in diff_S: 
+The key of diff_S is: F, G, H , S1
+The value of diff_S is: 0.9690000000009604
+The key of diff_S is: H, C, D , S1
+The value of diff_S is: 1.72400000000016
+The key of diff_S is: H, C, E , S1
+The value of diff_S is: 1.5629999999991924
+The key of diff_S is: A, E, F , S2
+The value of diff_S is: 39.42650000000049
+The key of diff_S is: A, E, G , S2
+The value of diff_S is: 37.0590000000002
+The key of diff_S is: A, E, H , S2
+The value of diff_S is: 42.20100000000002
+The key of diff_S is: A, C, E , S2
+The value of diff_S is: 44.9980000000005
+The key of diff_S is: F, C, E , S1
+The value of diff_S is: 2.255250000000615
+The key of diff_S is: G, C, E , S1
+The value of diff_S is: 1.9172499999999673
+We are in first loop of S to calculate log value: -394.46201564777783
+We are in first loop of S to calculate log value: -375.8505188184636
+It is the key point to check the entry of value_p_binet_S_first H, C, D , S1
+It is the key point to check the value of diff_S 1.72400000000016
+It is the key point to check the entry of value_p_binet_S_first H, C, E , S1
+It is the key point to check the value of diff_S 1.5629999999991924
+before to do 9 times judge, I need to know sup_log_S_first 770.3125344662415
+before to do 9 times judge, I need to know trinet_S2_1_value -59.71300000000065
+before to do 9 times judge, I need to know trinet_S2_2_value -59.71300000000065
+before to do 9 times judge, I need to know trinet_S1_value 61.71300000000065
+We are in this loop to assign trinet and the value of count_S_S1_first is: 2
+I need to check X and X length in this position[A, D, E, F, G, H, C]
+I need to check X and X length in this position7
+I need to check Xstar in this position6
+I need to check Y in this position[E, D]
+I need to check diff_NP and diff_S length in this position12
+I need to check diff_NP and diff_S length in this position{F, G, A , T1=8.03900000000067, F, H, A , T1=7.370999999999185, G, H, A , T1=7.565000000000509, A, C, F , T1=14.767000000000735, A, C, G , T1=14.45049999999992, A, C, H , T1=11.15350000000035, F, G, C , T1=22.972999999999956, F, H, C , T1=19.517500000000837, G, H, C , T1=21.715000000001055, F, G, E , T1=4.083999999998923, F, H, E , T1=2.253500000000713, G, H, E , T1=3.0080000000007203}
+I need to check diff_NP and diff_S length in this position8
+I need to check diff_NP and diff_S length in this position{F, G, H , S1=0.9690000000009604, A, E, F , S2=39.42650000000049, A, E, G , S2=37.0590000000002, A, E, H , S2=42.20100000000002, A, C, E , S2=44.9980000000005, F, C, E , S1=2.255250000000615, G, C, E , S1=1.9172499999999673, H, C, E , S1=1.6434999999996762}
+=== Debug: Edges in N1 ===
+Edge: n4 -> E, label=null
+Edge: n4 -> D, label=null
+=== End Debug ===
+=== Debug: Edges in N2_last Graph ===
+=== End Debug ===
+Make a recursive call
+This is the position to run trinetReconstruction again, the value of Xstar is and this XStar has Y[0][A, F, G, H, C, E]
+This is the position to run trinetReconstruction again, the length of diff_NP and XStar is 12
+,6
+The size of P_value is:20
+The size of u1 is:12
+The size of u2 is:12
+The size of u1_pending is:12
+The size of u2_pending is:12
+The size of w1 is:12
+The size of w1_pending is:12
+The size of diff_S is:8
+The size of diff_NP in the first start is:12
+The loci number in this trinetReconstruction is: 4000.0
+The value of pending edge gap and cherry edge gap and u2 and u2_pending is:
+  8.03900000000067  27.237999999999374  0.13372560324578794  0.15217349033413902
+  7.370999999999185  4.783999999999651  0.13352811054191163  0.15203470647107287
+  7.565000000000509  3.701999999999316  0.13457763097609957  0.1520015851467576
+  null  null  null  null
+  14.767000000000735  9.596999999999753  0.17111964934109733  0.15322379039225356
+  14.45049999999992  9.594999999999345  0.1711829546597033  0.15321730331368655
+  11.15350000000035  9.582499999999527  0.17115354310995284  0.15312703323237864
+  22.972999999999956  17.003500000000713  0.14958196633978454  0.15205170228982673
+  19.517500000000837  4.835999999999331  0.13351709219910857  0.15191657997864327
+  21.715000000001055  3.8489999999992506  0.13457039325746542  0.15186845319927772
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  null  null  null  null
+  4.083999999998923  7.357500000000073  0.16659798228902928  0.17057382513575056
+  2.253500000000713  4.7409999999999854  0.1336321518751144  0.17147209228867283
+  null  null  null  null
+  3.0080000000007203  4.008499999999913  0.13460040488645494  0.1711184403719713
+  null  null  null  null
+  null  null  null  null
+the X  length in findSmallSNset step is 6the X in findSmallSNset step is The x isAThe x isFThe x isGThe x isHThe x isCThe x isEIn smallsinkset step,I need to check the key of P_value_first
+F, G, A , T1  0.0  0.7399999242639668
+F, H, A , T1  0.0  0.04633823608916219
+G, H, A , T1  0.0  0.14999133603576037
+F, G, H , S1  0.5072007816336712  3.0743732831592543E-155
+A, C, F , T1  0.0  0.39230787147688945
+A, C, G , T1  0.0  0.5857525543980595
+A, C, H , T1  0.0  0.5692597091609845
+F, G, C , T1  0.0  0.8203552347357786
+F, H, C , T1  0.0  0.5627380957584606
+G, H, C , T1  0.0  0.5528582018103725
+A, E, F , S2  1.3979622747672654E-17  1.0650701836981862E-65
+A, E, G , S2  1.3379230487518262E-18  6.639165765093678E-66
+A, E, H , S2  3.290570549620753E-16  6.530397341722742E-75
+A, C, E , S2  0.3969239009453856  2.549188413021432E-63
+F, G, E , T1  0.0  0.36419210799159313
+F, H, E , T1  0.0  0.4625255250585303
+F, C, E , S1  0.5022974558826898  3.8576059988142615E-163
+G, H, E , T1  0.0  0.7837477966685756
+G, C, E , S1  0.4805655621640545  4.2713958207965505E-165
+H, C, E , S1  0.4828841400998108  5.354987608433052E-168
+0.0	-Infinity	-Infinity	-Infinity	4.0	4.0	
+-Infinity	0.0	4.0	4.0	-Infinity	-Infinity	
+-Infinity	4.0	0.0	4.0	-Infinity	-Infinity	
+-Infinity	4.0	4.0	0.0	-Infinity	-Infinity	
+4.0	-Infinity	-Infinity	-Infinity	0.0	4.0	
+4.0	4.0	4.0	4.0	4.0	0.0	
+The size of X in findSmallSNSET is 6
+=== Debug: Edges in Bonferroni ===
+Edge: A -> C, label=null
+Edge: A -> E, label=null
+Edge: F -> G, label=null
+Edge: F -> H, label=null
+Edge: G -> F, label=null
+Edge: G -> H, label=null
+Edge: H -> F, label=null
+Edge: H -> G, label=null
+Edge: C -> A, label=null
+Edge: C -> E, label=null
+Edge: E -> A, label=null
+Edge: E -> F, label=null
+Edge: E -> G, label=null
+Edge: E -> H, label=null
+Edge: E -> C, label=null
+The sccc is [[H, G, F], [E, C, A]]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyF, G, H , S1
+These are elements[F, G, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, F , S2
+These are elements[F, G, H, A, E]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, G , S2
+These are elements[F, G, H, A, E]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, H , S2
+These are elements[F, G, H, A, E]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, C, E , S2
+These are elements[F, G, H, A, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyF, C, E , S1
+These are elements[F, G, H, A, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyG, C, E , S1
+These are elements[F, G, H, A, E, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyH, C, E , S1
+These are elements[F, G, H, A, E, C]
+The value of mark after findSmallSNSET is0
+The top node in Graph is: []
+The size of Y is3
+The size of P_value_first is20
+The size of P_value is20
+The size of diff_S is 8
+The size of diff_N_P is 12
+The size of diff_N_C is 12
+ In trinetReconstruction the Y is[H, G, F]
+ In trinetReconstruction the X is[A, F, G, H, C, E]
+before cactusfitting in cactus, I need to check the key in P_valueF, G, A , T1
+before cactusfitting in cactus, I need to check the key in P_valueF, H, A , T1
+before cactusfitting in cactus, I need to check the key in P_valueG, H, A , T1
+before cactusfitting in cactus, I need to check the key in P_valueF, G, H , S1
+before cactusfitting in cactus, I need to check the key in P_valueA, C, F , T1
+before cactusfitting in cactus, I need to check the key in P_valueA, C, G , T1
+before cactusfitting in cactus, I need to check the key in P_valueA, C, H , T1
+before cactusfitting in cactus, I need to check the key in P_valueF, G, C , T1
+before cactusfitting in cactus, I need to check the key in P_valueF, H, C , T1
+before cactusfitting in cactus, I need to check the key in P_valueG, H, C , T1
+before cactusfitting in cactus, I need to check the key in P_valueA, E, F , S2
+before cactusfitting in cactus, I need to check the key in P_valueA, E, G , S2
+before cactusfitting in cactus, I need to check the key in P_valueA, E, H , S2
+before cactusfitting in cactus, I need to check the key in P_valueA, C, E , S2
+before cactusfitting in cactus, I need to check the key in P_valueF, G, E , T1
+before cactusfitting in cactus, I need to check the key in P_valueF, H, E , T1
+before cactusfitting in cactus, I need to check the key in P_valueF, C, E , S1
+before cactusfitting in cactus, I need to check the key in P_valueG, H, E , T1
+before cactusfitting in cactus, I need to check the key in P_valueG, C, E , S1
+before cactusfitting in cactus, I need to check the key in P_valueH, C, E , S1
+I am in this loop to construct the cactus graph that Y equals 3
+diff_s size is not zero
+0.9690000000009604
+The length of Y is 3 and we use trinet from .tnet file
+INININININ THIS {rank=same; n7; n8; n6}
+=== Debug: Edges after final cactusfitting in cherryGraph before ===
+Edge: n5 -> n6, label=null
+Edge: n5 -> n7, label=null
+Edge: n6 -> n8, label=weight1=0.508
+Edge: n6 -> F, label=null
+Edge: n6 -> n8, label=weight1=0.508
+Edge: n7 -> n8, label=weight2=0.492
+Edge: n7 -> G, label=null
+Edge: n7 -> n8, label=weight2=0.492
+Edge: n8 -> H, label=null
+Edge: n8 -> n7, label=style=invis
+Edge: n8 -> n7, label=style=invis
+=== End Debug ===
+X  after cactusfitting is and in this part, XStar has no Y[0]: [A, F, G, H, C, E]
+X star after cactusfitting is and in this part, XStar has no Y[0]: [A, C, E]
+Y after cactusfitting is: [H, G, F]
+diff_NP after cactusfitting is: {F, G, A , T1=8.03900000000067, F, H, A , T1=7.370999999999185, G, H, A , T1=7.565000000000509, A, C, F , T1=14.767000000000735, A, C, G , T1=14.45049999999992, A, C, H , T1=11.15350000000035, F, G, C , T1=22.972999999999956, F, H, C , T1=19.517500000000837, G, H, C , T1=21.715000000001055, F, G, E , T1=4.083999999998923, F, H, E , T1=2.253500000000713, G, H, E , T1=3.0080000000007203}
+diff_S after cactusfitting is: {F, G, H , S1=0.9690000000009604, A, E, F , S2=39.42650000000049, A, E, G , S2=37.0590000000002, A, E, H , S2=42.20100000000002, A, C, E , S2=44.9980000000005, F, C, E , S1=2.255250000000615, G, C, E , S1=1.9172499999999673, H, C, E , S1=1.6434999999996762}
+The LOOP to travel Y is in here:
+
+The LOOP to travel Y is in here:
+
+The LOOP to travel Y is in here:
+
+The product key in cactus_NT is: A, C, G , T1
+The product result in cactus_NT is: 0.5857525543980595
+The product key in cactus_NT is: A, C, H , T1
+The product result in cactus_NT is: 0.5692597091609845
+The product key in cactus_NT is: A, C, F , T1
+The product result in cactus_NT is: 0.39230787147688945
+This place the Xi is:A
+This place the Xj is:C
+The value of L is: 3
+The geometricmean of product is: 0.5076338258266082
+This place the value of NT_first is:0.0
+This place the value of NT_first is:0.0
+This place the value of NT_first is:0.0
+The product NT first is: 0.0
+The product NT second is: 1.0
+The product NT third is: 1.0
+The LOOP to travel Y is in here:
+
+The key in second cactus is A, E, H , S2
+The P_value in second cactus is: 6.530397341722742E-75
+The LOOP to travel Y is in here:
+
+The key in second cactus is A, E, G , S2
+The P_value in second cactus is: 6.639165765093678E-66
+The LOOP to travel Y is in here:
+
+The key in second cactus is A, E, F , S2
+The P_value in second cactus is: 1.0650701836981862E-65
+The product key in cactus_S is: A, E, G , S2
+The product result in cactus_S is: 6.639165765093678E-66
+The product key in cactus_S is: A, E, H , S2
+The product result in cactus_S is: 6.530397341722742E-75
+The product key in cactus_S is: A, E, F , S2
+The product result in cactus_S is: 1.0650701836981862E-65
+This place the Xi is:A
+This place the Xj is:E
+The value of L is: 3
+The geometricmean of product is: 7.729364388937903E-69
+We are in second loop of S to calculate log value: -150.07762981979886
+The sup_log_S_first value is: -150.07762981979886
+The sup_log_S_second value is: 150.07762981979886
+The sup_log_S_third value is: -150.07762981979886
+We are in second loop of S to calculate log value: -170.81741418446043
+The sup_log_S_first value is: -320.89504400425926
+The sup_log_S_second value is: 320.89504400425926
+The sup_log_S_third value is: -320.89504400425926
+We are in second loop of S to calculate log value: -149.60499034743683
+The sup_log_S_first value is: -470.50003435169606
+The sup_log_S_second value is: 470.50003435169606
+The sup_log_S_third value is: -470.50003435169606
+We select second log as max value: 
+I need to check log value in this position-470.50003435169606
+I need to check log value in this position470.50003435169606
+I need to check log value in this position-470.50003435169606
+I need to check trinet value in this position97.0
+I need to check trinet value in this position-95.0
+I need to check trinet value in this position-95.0
+The LOOP to travel Y is in here:
+
+The key in second cactus is H, C, E , S1
+The P_value in second cactus is: 5.354987608433052E-168
+The LOOP to travel Y is in here:
+
+The key in second cactus is G, C, E , S1
+The P_value in second cactus is: 4.2713958207965505E-165
+The LOOP to travel Y is in here:
+
+The key in second cactus is F, C, E , S1
+The P_value in second cactus is: 3.8576059988142615E-163
+The product key in cactus_S is: F, C, E , S1
+The product result in cactus_S is: 3.8576059988142615E-163
+The product key in cactus_S is: G, C, E , S1
+The product result in cactus_S is: 4.2713958207965505E-165
+The product key in cactus_S is: H, C, E , S1
+The product result in cactus_S is: 5.354987608433052E-168
+This place the Xi is:C
+This place the Xj is:E
+The value of L is: 3
+The geometricmean of product is: 0.0
+We are in second loop of S to calculate log value: -373.97132337452206
+The sup_log_S_first value is: -373.97132337452206
+The sup_log_S_second value is: 373.97132337452206
+The sup_log_S_third value is: -373.97132337452206
+We are in second loop of S to calculate log value: -378.47459968007763
+The sup_log_S_first value is: -752.4459230545997
+The sup_log_S_second value is: 752.4459230545997
+The sup_log_S_third value is: -752.4459230545997
+We are in second loop of S to calculate log value: -385.15626723312073
+The sup_log_S_first value is: -1137.6021902877205
+The sup_log_S_second value is: 1137.6021902877205
+The sup_log_S_third value is: -1137.6021902877205
+We select second log as max value: 
+I need to check log value in this position-1137.6021902877205
+I need to check log value in this position1137.6021902877205
+I need to check log value in this position-1137.6021902877205
+I need to check trinet value in this position97.0
+I need to check trinet value in this position-95.0
+I need to check trinet value in this position-95.0
+We are in this loop to assign trinet and the value of count_S_S1_second is: 3
+I need to check X and X length in this position[A, F, G, H, C, E]
+I need to check X and X length in this position6
+I need to check Xstar in this position4
+I need to check Y in this position[H, G, F]
+I need to check diff_NP and diff_S length in this position1
+I need to check diff_NP and diff_S length in this position{A, C, H , T1=13.457000000000335}
+I need to check diff_NP and diff_S length in this position3
+I need to check diff_NP and diff_S length in this position{A, E, H , S2=42.20100000000002, A, C, E , S2=44.9980000000005, C, H, E , S1=1.938666666666753}
+=== Debug: Edges in N1 ===
+Edge: n5 -> n6, label=null
+Edge: n5 -> n7, label=null
+Edge: n6 -> n8, label=weight1=0.508
+Edge: n6 -> F, label=null
+Edge: n7 -> n8, label=weight2=0.492
+Edge: n7 -> G, label=null
+Edge: n8 -> H, label=null
+Edge: n8 -> n7, label=style=invis
+=== End Debug ===
+=== Debug: Edges in N2_last Graph ===
+=== End Debug ===
+Make a recursive call
+This is the position to run trinetReconstruction again, the value of Xstar is and this XStar has Y[0][A, C, E, H]
+This is the position to run trinetReconstruction again, the length of diff_NP and XStar is 1
+,4
+The size of P_value is:4
+The size of u1 is:1
+The size of u2 is:1
+The size of u1_pending is:1
+The size of u2_pending is:1
+The size of w1 is:1
+The size of w1_pending is:9
+The size of diff_S is:3
+The size of diff_NP in the first start is:1
+The loci number in this trinetReconstruction is: 4000.0
+The value of pending edge gap and cherry edge gap and u2 and u2_pending is:
+  null  null  null  null
+  null  null  null  null
+  13.457000000000335  9.591499999999542  0.1462219339785681  0.15318937564610624
+  null  null  null  null
+the X  length in findSmallSNset step is 4the X in findSmallSNset step is The x isAThe x isCThe x isEThe x isHIn smallsinkset step,I need to check the key of P_value_first
+A, E, H , S2  3.290570549620753E-16  6.530397341722742E-75
+A, C, E , S2  0.3969239009453856  2.549188413021432E-63
+A, C, H , T1  0.0  0.5076338258266082
+C, H, E , S1  0.48848607558413887  2.0664047223725652E-165
+0.0	2.0	2.0	-Infinity	
+2.0	0.0	2.0	-Infinity	
+2.0	2.0	0.0	2.0	
+2.0	2.0	2.0	0.0	
+The size of X in findSmallSNSET is 4
+=== Debug: Edges in Bonferroni ===
+Edge: A -> C, label=null
+Edge: A -> E, label=null
+Edge: C -> A, label=null
+Edge: C -> E, label=null
+Edge: E -> A, label=null
+Edge: E -> C, label=null
+Edge: E -> H, label=null
+Edge: H -> A, label=null
+Edge: H -> C, label=null
+Edge: H -> E, label=null
+The sccc is [[H, E, C, A]]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, E, H , S2
+These are elements[A, E, H]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyA, C, E , S2
+These are elements[A, E, H, C]
+This is the place to final check if we have enough diff_S to cover all y
+This is the keyC, H, E , S1
+These are elements[A, E, H, C]
+The value of mark after findSmallSNSET is0
+The top node in Graph is: []
+The size of Y is4
+The size of P_value_first is4
+The size of P_value is4
+The size of diff_S is 3
+The size of diff_N_P is 1
+The size of diff_N_C is 1
+ In trinetReconstruction the Y is[H, E, C, A]
+ In trinetReconstruction the X is[A, C, E, H]
+before cactusfitting in cactus, I need to check the key in P_valueA, E, H , S2
+before cactusfitting in cactus, I need to check the key in P_valueA, C, E , S2
+before cactusfitting in cactus, I need to check the key in P_valueA, C, H , T1
+before cactusfitting in cactus, I need to check the key in P_valueC, H, E , S1
+I am here to construct cactusfitting
+Y in cactusfitting is[H, E, C, A]
+42.20100000000002
+pass1
+pass2
+the key is: A, E, H , S2
+the value of diff_S is: 42.20100000000002
+the value of P_value is : 6.530397341722742E-75
+44.9980000000005
+pass1
+pass2
+the key is: A, C, E , S2
+the value of diff_S is: 44.9980000000005
+the value of P_value is : 2.549188413021432E-63
+1.938666666666753
+pass1
+pass2
+the key is: C, H, E , S1
+the value of diff_S is: 1.938666666666753
+the value of P_value is : 2.0664047223725652E-165
+This is index 0
+170.81741418446043
+This is index 1
+523.3278159154231
+This is index 2
+0.0
+This is index 3
+0.0
+Lowest leaf in cactus is: [E]
+42.20100000000002
+44.9980000000005
+1.938666666666753
+the largestIndex_2: 0
+the phi_2: 0.0
+the phi_2: 0.0
+the phi_2: 0.0
+the value of largest phi_2: 0.0
+the taxa of largest phi_2: H
+a is:H
+This is Y [C, A]
+A, E, H , S2
+42.20100000000002
+A, C, E , S2
+44.9980000000005
+the value of diff_S is: 12.998000000000502
+the value of diff_S is: 12.998000000000502
+C, H, E , S1
+1.938666666666753
+the value of diff_S is: -30.06133333333325
+the value of phi_3 is:-17.063333333332746
+the value of phi_3 is:12.998000000000502
+x is:A
+score a is:0.0
+score b is:0.0
+the X is:A
+the Y is:[C]
+the A is:[H]
+the B is:[A]
+score a is:-30.06133333333325
+score b is:12.998000000000502
+the X is:C
+the Y is:[]
+the A is:[H]
+the B is:[A, C]
+A has the elements:[H]
+B has the elements:[A, C]
+I am in this loop that Y not equal to 3 construct the cactus graph that Y equals 3
+INININININ THIS {rank=same; n12; n13; n10}
+=== Debug: Edges after final cactusfitting in cherryGraph before ===
+Edge: n9 -> n10, label=null
+Edge: n9 -> n11, label=null
+Edge: n10 -> n13, label=weight1=0.504
+Edge: n10 -> H, label=null
+Edge: n10 -> n13, label=weight1=0.504
+Edge: n11 -> n12, label=null
+Edge: n11 -> A, label=null
+Edge: n12 -> n13, label=weight2=0.496
+Edge: n12 -> C, label=null
+Edge: n12 -> n13, label=weight2=0.496
+Edge: n13 -> E, label=null
+Edge: n13 -> n12, label=style=invis
+Edge: n13 -> n12, label=style=invis
+=== End Debug ===
+X  after cactusfitting is and in this part, XStar has no Y[0]: [A, C, E, H]
+X star after cactusfitting is and in this part, XStar has no Y[0]: []
+Y after cactusfitting is: [H, E, C, A]
+diff_NP after cactusfitting is: {A, C, H , T1=13.457000000000335}
+diff_S after cactusfitting is: {A, E, H , S2=42.20100000000002, A, C, E , S2=44.9980000000005, C, H, E , S1=1.938666666666753}
+In this position?
+let's start and I need to check Xstar in this position4
+let's start and I need to check Xstar in this position6
+let's start and I need to check Xstar in this position7
+Please output this line{rank=same; n2; n3}
+Please output this line{rank=same; n7; n8; n6}
+Please output this line{rank=same; n12; n13; n10}
+DOT file exported to myOutput.dot
+ERROR - The Graph contains a cycle so a topological sort is not possible.
+REPORT: (((#H1,(E,D)n4)#H2,((F,(H,#H3)#H4)n6,(G,#H4)#H3)n5)n10,(A,(#H2,((#H5,B)n2,(C)#H5)n1)#H1)n11)root;
+REPORT: (((#H1,(E,D))#H2,((F,(H,#H3)#H4),(G,#H4)#H3)),(A,(#H2,((#H5,B),(C)#H5))#H1))root;
+Extracting trinets from Output network...........
+incorrect vertex: #H1
+incorrect vertex: #H2
+incorrect vertex: #H3
+incorrect vertex: #H4
+Something is wrong.
