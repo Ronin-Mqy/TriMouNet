@@ -40,10 +40,8 @@ python infer_trinet_types_and_generate_tnets.py
 
 Step 3 — reconstruct the network from .tnets
 
-java -jar TriMouNet.jar
--o simulatednetwork_middle/myOutput.dot
-simulatednetwork_middle/simulatednetwork_middle.tnets
+java -jar TriMouNet.jar simulatednetwork_middle.tnets
 
 Optional — visualize the network
 
-dot -Tpng simulatednetwork_middle/myOutput.dot -o simulatednetwork_middle/myOutput.png
+dot -Tpng myOutput.dot -o myOutput.png
