@@ -1591,7 +1591,7 @@ f2=open(path1+'gamma_test_6.704_0.14916467780429596_M_quartet_adjust_deleteoutli
 lines=f2.readlines()
 loci_num=len(lines)
 print('The number of loci is',loci_num/len(w_count))
-f1.write("N U M Num "+str(loci_num))
+f1.write("N U M Num "+str(loci_num/len(w_count)))
 
 f1.close()
 
